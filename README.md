@@ -3,3 +3,4 @@ My code answers the first two questions and performs the action asked in the thi
 The first output is a pandas series and I am wondering if I should have filtered it to exclude continents and only contain countries.  
 The second output is a list.
 The third output is a series from the final dataframe.
+REVISED: I changed it to make the third print to show a datframe with the themes and their frequencies after the missing names had been filled in.
